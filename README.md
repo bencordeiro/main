@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bencordeiro
 - 👀 I’m interested in Cybersecurity
-- 📫 Discord is: Benjamin _(ツ)_#0590
+- 📫 Discord is: benjamin_co_
 
 # PicoCTF & Tools
 
